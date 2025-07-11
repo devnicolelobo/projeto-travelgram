@@ -1,0 +1,3 @@
+#ignora algumas coisas que não são necessárias
+# ignora arquivos de sistema
+.DS_Store
