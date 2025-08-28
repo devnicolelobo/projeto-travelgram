@@ -1,0 +1,47 @@
+/* ===== GLOBAL STYLES ===== */
+
+/* CSS Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Variáveis de Cores e Fontes */
+:root {
+    /* Cores */
+    --brand-color: #EF5F4C;
+    --background-color: #FFFFFF;
+    --surface-color: #F5F5F5;
+    --skeleton-color: #D9D9D9;
+    --text-color-primary: #313131;
+    --text-color-secondary: #6C6C6C;
+
+    /* Fontes */
+    --font-family: 'Poppins', sans-serif;
+}
+
+/* Estilos Base */
+body {
+    font-family: var(--font-family);
+    background-color: var(--background-color);
+    color: var(--text-color-primary);
+    -webkit-font-smoothing: antialiased; /* Melhora a renderização da fonte */
+}
+
+a {
+    text-decoration: none;
+    color: var(--text-color-secondary);
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+/* Container Principal */
+.container {
+    max-width: 1280px; /* Largura máxima da página */
+    margin-inline: auto; /* Centraliza o container */
+    padding-inline: 24px; /* Espaçamento nas laterais */
+}
