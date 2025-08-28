@@ -19,8 +19,8 @@ box-sizing: border-box;
     --font-family: "Poppins", sans-serif;
     --text-lg: bold 32px/125% var(--font-family);
     --text-md:14px/175% var(--font-family);
-    --text: 16px/1.5 var(--font-family);
-    --text-sm:n 12px/175% var(--font-family);
+    --text: 16px/1.5 var(--font-family); /* 1.5 multiplicador universal */
+    --text-sm: 12px/175% var(--font-family);
 
 }
 
@@ -30,3 +30,4 @@ font: var(--text-lg);
 color: var(--text-color-secondary);
 background-color: var(--background-color);
 }
+
