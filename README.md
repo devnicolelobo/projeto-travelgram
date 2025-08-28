@@ -39,6 +39,7 @@ Este projeto foi desenvolvido com base em material do curso Full Stack da Rocket
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 🇬🇧 English
+
 About the project
 Travelgram is a static web interface that simulates a social media profile for travel enthusiasts. This project was created to apply and consolidate fundamental knowledge of HTML5 and CSS3, focusing on building modern layouts using Flexbox and Grid.
 
