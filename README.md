@@ -1,9 +1,5 @@
 # Projeto Travelgram
 
-![Prévia do Projeto](<img width="941" height="920" alt="image" src="https://github.com/user-attachments/assets/64f33746-f092-457b-b053-577b5043cae7" />)
-
----
-
 🇧🇷 Português
 
 ## Sobre o projeto
